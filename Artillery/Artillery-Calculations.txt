@@ -1,0 +1,23 @@
+* Information
+
+** Coordinates
+My GPS: X 4360 Y -5655
+Target GPS: X 1300 Y -3718
+
+** Altitude
+My altitude: 9m
+Target altitude: 5m
+
+* Formulas
+
+** Distance calculation:
+( (x2 - x1)^2 + (y2 - y1)^2 )sqrt
+
+** Low-Angle calculation:
+(1/2) * sin^-1 ( (g * d) / v^2 )
+
+** High-Angle calculation (radians):
+(1/2) * 180 - sin^-1( (g * d) / v^2) )
+
+** Converting Radians to Degrees:
+radian * (180 / pi)
