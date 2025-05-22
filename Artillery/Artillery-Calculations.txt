@@ -1,5 +1,9 @@
 * Information
 
+** Stuff
+Elevation aprox. 68
+Azimuth arpox. 237
+
 ** Coordinates
 My GPS: X 4360 Y -5655
 Target GPS: X 1300 Y -3718
